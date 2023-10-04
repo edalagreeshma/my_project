@@ -19,12 +19,12 @@ function Navbar() {
       <li>
       {/* <img src="https://i0.wp.com/s1.favim.com/orig/23/animal-aww-awww-cat-cute-Favim.com-215286.jpg"/><br/> */}
 
-        <Link to="/line">Line Chart</Link>
+        <Link to="/line">Line chart</Link>
       </li>
       <li>
       {/* <img src="https://i0.wp.com/s1.favim.com/orig/23/animal-aww-awww-cat-cute-Favim.com-215286.jpg"/><br/> */}
 
-        <Link to="/weather">weather</Link>
+        <Link to="/weather">Pie chart</Link>
       </li>
     </ul>
     </div>
